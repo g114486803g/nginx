@@ -1,0 +1,5 @@
+配置好的
+https://nginxconfig.io/?1.php=false&1.proxy&1.fallback_html&ssl_profile=modern&referrer_policy=unsafe-url&php_server=127.0.0.1:9000&brotli
+
+主页
+https://nginxconfig.io
